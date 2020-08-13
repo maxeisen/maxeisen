@@ -15,4 +15,10 @@ I am a Computer Science student at Queen's University with a fascination for all
 - 📫 Reach me by [email](mailto:max.eisen@queensu.ca?subject=Hello%20from%20your%20GitHub%20profile!), [LinkedIn](https://www.linkedin.com/in/maxeisen/), or [Twitter](https://twitter.com/MaxEisen)
 - ⚡ Fun fact: I [reviewed iOS apps](https://www.youtube.com/user/AppStoreReviewers/videos) before iOS was even called iOS!
 
+### Some Stats
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=maxeisen&show_icons=true&bg_color=90,007363,00bba2&title_color=fff&text_color=fff&hide=stars,contribs" alt="Account Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxeisen&layout=compact&bg_color=90,007363,00bba2&title_color=fff&text_color=fff" alt="Language Stats" />
+</p>
+
 ### Check out [MaxEisen.me](https://maxeisen.me) for more about me!
