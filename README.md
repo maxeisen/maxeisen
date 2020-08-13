@@ -17,8 +17,8 @@ I am a Computer Science student at Queen's University with a fascination for all
 
 ### Some Stats
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=maxeisen&show_icons=true&bg_color=90,007363,00bba2&title_color=fff&text_color=fff&hide=stars,contribs" alt="Account Stats" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxeisen&layout=compact&bg_color=90,007363,00bba2&title_color=fff&text_color=fff" alt="Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxeisen&show_icons=true&bg_color=90,007363,00bba2&title_color=fff&text_color=fff&hide=stars,contribs" alt="Account Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxeisen&layout=compact&bg_color=90,007363,00bba2&title_color=fff&text_color=fff" alt="Language Stats" />
 </p>
 
 ### Check out [MaxEisen.me](https://maxeisen.me) for more about me!
