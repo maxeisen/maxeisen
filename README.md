@@ -11,9 +11,9 @@ I am a Computer Science student at Queen's University with a fascination for all
 ### Overview
 - 🎓 I'm currently in my final year of Computer Science at Queen's University, working as a teaching assistant for CISC 320 (Fundamentals of Software Development)
 - 💼 After I graduate, I'll be starting work as a Software Engineer and Consultant at [Publicis Sapient](https://www.publicissapient.com/)
-- 🔭 My main interests are UI/UX design, web development, music (listening and playing), learning new skills, and being in the outdoors!
+- 🔭 My other main interests are UI/UX design, music (listening and playing), learning new skills, and being active outdoors!
 - 🌱 I’m developing using React, Svelte, Spring Boot, Node, and more
-- 💬 Things you can ask me about include: new tech, food, travel, networking (the people or the computer kind), beta testing, PC building, or life 😳
+- 💬 Things you can ask me about include: new tech, food, travel, networking (the people or the computer kind), beta testing, PC building, or anything existential 😳
 - 📫 Reach me by [email](mailto:max.eisen@queensu.ca?subject=Hello%20from%20your%20GitHub%20profile!), [LinkedIn](https://www.linkedin.com/in/maxeisen/), or [Twitter](https://twitter.com/MaxEisen)
 - ⚡ Fun fact: I [reviewed iOS apps](https://www.youtube.com/user/AppStoreReviewers/videos) before iOS was even called iOS!
 
