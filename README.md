@@ -6,7 +6,7 @@
 </p>
 
 ### About
-I am a Computer Science student at Queen's University with a fascination for all technology. I love working with people, and I have a keen interest in, and passion for software and web development.
+I am a Software Engineer with a fascination for all technology. I love working with people, and I have a keen interest in, and passion for software and web development.
 
 ### Overview
 - 🎓 I recently graduated from Computer Science at Queen's University, and am still working as a teaching assistant for several CS courses
