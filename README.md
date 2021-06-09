@@ -17,7 +17,7 @@ I am a recent CS grad with a fascination for all technology. I love working with
 - 📫 Reach me by [email](mailto:max.eisen@queensu.ca?subject=Hello%20from%20your%20GitHub%20profile!), on [LinkedIn](https://www.linkedin.com/in/maxeisen/), or on [Twitter](https://twitter.com/MaxEisen)
 - ⚡ Fun fact: I [reviewed iOS apps](https://www.youtube.com/user/AppStoreReviewers/videos) before iOS was even called iOS!
 
-### Check out [MaxEisen.me](https://maxeisen.me) to check out my webdev skills and learn more about me 😎
+### Check out [MaxEisen.me](https://maxeisen.me) to assess my webdev skills and learn more about me 😎
 
 <details>
   <summary>Some Stats</summary>
