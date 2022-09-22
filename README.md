@@ -9,7 +9,7 @@
 I am a software engineer with a fascination for all technology. I love working with people, and I have a keen interest in, and passion for software and web development.
 
 ### Overview
-- 💼 I work as a Software Engineer and Consultant at [Amazon Web Services](https://aws.amazon.com/)
+- 💼 I am a Software Development Engineer at [Amazon Web Services](https://aws.amazon.com/)
 - 🎓 I graduated from Computer Science at Queen's University
 - 🔭 Aside from software development, some of my additional hobbies/interests are drone piloting, cycling, guitar, UI/UX design, beta testing, and learning new skills!
 - 🌱 I’m developing using React, Svelte, Node, Java, Python and more
