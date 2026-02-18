@@ -9,7 +9,7 @@
 I am a software engineer with a fascination for all technology. I love working with people, and I have a keen interest in, and passion for software and web development.
 
 ### Overview
-- 💼 I am a Software Development Engineer at [Wealthsimple](https://www.wealthsimple.com/)
+- 💼 I am a Software Development Engineer at [Wealthsimple](https://www.wealthsimple.com/) (prev. Amazon)
 - 🎓 I studied Computer Science at Queen's University
 - 🔭 Aside from software development, some of my additional hobbies/interests are running, cycling, guitar, coffee, drone piloting, UI/UX design, beta testing, and learning new skills!
 - 🌱 I’m developing using Java, Python, React, Svelte, Node, and more
