@@ -10,11 +10,6 @@
 
 Software Developer at [Wealthsimple](https://www.wealthsimple.com/) on the core investment technology team - designing corporate actions workflows, trade processing, and internal tooling for the Operations organization. Previously: [Goodreads](https://www.goodreads.com/) (community and revenue features), [Fulfillment by Amazon](https://sell.amazon.com/fulfillment-by-amazon) (seller inventory inbounding and category expansion), [AWS CloudFront](https://aws.amazon.com/cloudfront/) (global CDN, points of presence, service reliability), and [Publicis Sapient](https://www.publicissapient.com/) embedded with [Goldman Sachs](https://www.goldmansachs.com/) on financial advisor tooling. BCompSc, [Queen's University](https://cs.queensu.ca/) '21.
 
-### Currently
-
-- Building durable workflows for corporate actions (dividends, mergers, splits) at Wealthsimple
-- Investigating patterns in distributed trade processing and idempotent event handling
-
 ### Contact
 
 - Portfolio — [maxeisen.me](https://maxeisen.me)
