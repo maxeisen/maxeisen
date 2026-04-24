@@ -14,7 +14,6 @@ Software Developer at [Wealthsimple](https://www.wealthsimple.com/) on the core 
 
 - Building durable workflows for corporate actions (dividends, mergers, splits) at Wealthsimple
 - Investigating patterns in distributed trade processing and idempotent event handling
-- Maintaining [maxeisen.me](https://maxeisen.me)
 
 ### Contact
 
