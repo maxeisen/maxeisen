@@ -11,9 +11,9 @@
 Software Developer at [Wealthsimple](https://www.wealthsimple.com/) working on investment technology - designing corporate actions workflows (think dividends, stock splits, IPOs, etc...), post-trade processing, and internal tooling for the Operations team.
 
 Previously:
-- [Goodreads](https://www.goodreads.com/) (Amazon subsidiary) - community and revenue features
-- [Fulfillment by Amazon](https://sell.amazon.com/fulfillment-by-amazon) - seller inventory inbounding eligibility
 - [AWS CloudFront](https://aws.amazon.com/cloudfront/) - global CDN service reliability and availability automations
+- [Fulfillment by Amazon](https://sell.amazon.com/fulfillment-by-amazon) - seller inventory inbounding eligibility
+- [Goodreads](https://www.goodreads.com/) (Amazon subsidiary) - community and revenue features
 - [Publicis Sapient](https://www.publicissapient.com/) - embedded with [Goldman Sachs](https://www.goldmansachs.com/) on financial advisor tooling
 
 I obtained my Bachelor of Computing (BCmp Honours) from [Queen's University](https://cs.queensu.ca/) '21, specializing in Computer Science.
