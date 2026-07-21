@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://maxeisen.me" target="_blank">
-    <img src="https://github.com/maxeisen/MaxEisen.me/blob/master/public/img/additional/memoji_cycle_large.gif" align="center" alt="Max Eisen memoji cycle" width="100">
-  </a>
   <h1 align="center">Max Eisen</h1>
   <p align="center">Software Developer at Wealthsimple (Toronto) - Building the future of financial freedom</p>
 </p>
