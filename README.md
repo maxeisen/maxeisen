@@ -17,9 +17,9 @@ I obtained my Bachelor of Computing (BCmp Honours) from [Queen's University](htt
 
 ### Contact
 
-- Email — [code@maxeisen.me](mailto:code@maxeisen.me?subject=Hello%20from%20your%20GitHub%20profile!)
+- Email — [code@meisen.dev](mailto:code@meisen.dev?subject=Hello%20from%20your%20GitHub%20profile!)
 - LinkedIn — [/in/maxeisen](https://linkedin.com/in/maxeisen/)
-- Portfolio — [maxeisen.me](https://maxeisen.me)
+- Portfolio — [maxeisen.me](https://meisen.dev)
 
 ---
 
